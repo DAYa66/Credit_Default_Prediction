@@ -9,4 +9,4 @@
 
 В файле Credit_Default_EDA.ipynb находится ноутбук с exploratory data analysis.
 
-В файле Credit_Default_Prediction.ipynb находится ноутбук с окончательным кодом решения задачи.
+В файле Credit_Default_Prediction_Kaggle.ipynb находится ноутбук с окончательным кодом решения задачи.
